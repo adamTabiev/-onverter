@@ -1,5 +1,5 @@
 //
-//  _onverterApp.swift
+//  ConverterApp.swift
 //  Сonverter
 //
 //  Created by Адам Табиев on 17.12.2022.
